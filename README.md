@@ -1,5 +1,5 @@
 # log4net
-
+  
 Log4Net is a logging framework which helps a developer to store the information to variety of storage areas
 Example:
 - Console
@@ -32,4 +32,7 @@ It also lets you Forward from one Appender to another Appender:
 - ForwardingAppender
 - BufferingForwardingAppender
 
-For more details [Click here](https://github.com/ILearny/Standards/wiki/Log4Net)
+Note:
+- The above sample is built on .net Core
+
+For more details on log4net, [Click here](https://github.com/ILearny/Standards/wiki/Log4Net)
